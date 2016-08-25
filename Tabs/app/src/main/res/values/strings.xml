@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tabs</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_an_audio_fragment">This is an Audio Fragment.</string>
+    <string name="this_is_a_video_fragment">This is a video fragment</string>
+</resources>
